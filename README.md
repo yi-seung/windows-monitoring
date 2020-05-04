@@ -15,6 +15,3 @@ windows > run > services.msc
 check "WMI exporter" service (check start)
 http://localhost:9182/metrics
 
-=======
-Window monitoring using "wmi_exporter", Prometheus, and Graphana / "wmi_exporter"와 프로메테우스, 그라파나를 사용한 윈도우 모니터링
->>>>>>> 18175daa126c3ad3e5c8595771024820e941f613
