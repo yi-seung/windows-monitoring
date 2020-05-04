@@ -14,4 +14,3 @@ windows > run > services.msc
 check "WMI exporter" service (check start)
 http://localhost:9182/metrics
 
-
